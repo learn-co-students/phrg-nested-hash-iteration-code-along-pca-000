@@ -126,5 +126,7 @@ end
 
 Congrats! You made it. Test that your method works by running `ruby bin/contacts` in the terminal. It should output the hash without strawberry ice cream. Also, be sure to run the specs to make sure they pass.
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-nested-hash-iteration-code-along/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-nested-hash-iteration-code-along/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
 <p data-visibility='hidden'>PHRG Code Along: Manipulating Nested Hashes</p>
